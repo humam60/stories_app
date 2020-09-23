@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021602821886",
+    "firebase_url": "https://stories-6ec80.firebaseio.com",
+    "project_id": "stories-6ec80",
+    "storage_bucket": "stories-6ec80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021602821886:android:4e75c75b9e5a88086c17af",
+        "android_client_info": {
+          "package_name": "com.humam.my_stories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021602821886-o5g5276g860vjt8llerei96r7j8jp75m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDva0jAEoh0eINQF-1lUtw0jGyipY95GDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021602821886-o5g5276g860vjt8llerei96r7j8jp75m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

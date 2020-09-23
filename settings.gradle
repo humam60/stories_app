@@ -1,0 +1,2 @@
+rootProject.name='My_stories'
+include ':app'
